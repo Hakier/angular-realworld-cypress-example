@@ -1,0 +1,39 @@
+{
+  "articles": [
+    {
+      "slug": "Test-1",
+      "title": "Test 1",
+      "description": "This is a description",
+      "body": "This is a body of the article",
+      "tagList": [],
+      "createdAt": "2022-11-23T08:59:35.104Z",
+      "updatedAt": "2022-11-23T08:59:35.104Z",
+      "favorited": false,
+      "favoritesCount": 1,
+      "author": {
+        "username": "CY Tester",
+        "bio": "knsdsadsdsadas",
+        "image": "ibdadfasdkfj;s",
+        "following": false
+      }
+    },
+    {
+      "slug": "Test-101-1850",
+      "title": "Test 101",
+      "description": "Test 101",
+      "body": "Test 101",
+      "tagList": [],
+      "createdAt": "2022-11-23T09:12:24.319Z",
+      "updatedAt": "2022-11-23T09:12:24.319Z",
+      "favorited": false,
+      "favoritesCount": 5,
+      "author": {
+        "username": "CY Tester",
+        "bio": "knsdsadsdsadas",
+        "image": "ibdadfasdkfj;s",
+        "following": false
+      }
+    }
+  ],
+  "articlesCount": 2
+}

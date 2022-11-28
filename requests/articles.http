@@ -1,0 +1,12 @@
+POST https://conduit.productionready.io/api/articles
+Content-Type: application/json
+Authorization: Token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFydGVtLmJvbmRhcjE2QGdtYWlsLmNvbSIsInVzZXJuYW1lIjoiQ1kgVGVzdGVyIiwiaWF0IjoxNjY5MjA3ODAyLCJleHAiOjE2NzQzOTE4MDJ9.0spoa2xitbXt0-oxrNnir1E42xzGddtKRtih6KpQ1kQ
+
+{
+  "article": {
+    "title": "Request from API WS",
+    "description": "API testing is easy",
+    "body": "React is cool",
+    "tagList": []
+  }
+}
